@@ -8,7 +8,7 @@ If the signature does not match the sender, the transaction fails and the client
 
 ## Installing the Dependencies
 
-To install the dependencies, simply navigate to the directory and use `npm install` to install the dependencies listed in the package.json.
+To install the dependencies, simply navigate to the directory and use `npm install` to install the dependencies listed in the `package.json`.
 
 ## Running the Server
 
@@ -18,7 +18,7 @@ On launch, the server will generate some random public and private keys correspo
 
 ## Running the Client
 
-To run the client, go to the /client folder in the repository and use parceljs on the index.html:
+To run the client, go to the `/client` folder in the repository and use parceljs on the `index.html`:
 
 ```bash
 npx parcel index.html
