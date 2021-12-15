@@ -24,4 +24,4 @@ To run the client, go to the /client folder in the repository and use parceljs o
 npx parcel index.html
 ```
 
-Now you can navigate to your \href[localhost](://localhost:1234/) to run the application. Use the public/private
+Now you can navigate to your [localhost](://localhost:1234/) to run the application. To send money from a given account to another, you need to input the corresponding private key. Use the wrong private key and it won't work!
